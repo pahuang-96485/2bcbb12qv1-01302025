@@ -55,7 +55,7 @@ This repository contains a single Jupyter notebook (**`Text Classification.ipynb
 
 ---
 
-## Repository layout (suggested)
+## Repository layout
 
 ```
 .
